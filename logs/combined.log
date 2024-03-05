@@ -1,0 +1,441 @@
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 9"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 9"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid signature","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"jwt malformed","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"invalid token","name":"JsonWebTokenError"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"Invalid token"}
+{"level":"error","message":"Invalid token"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:3306"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:3306"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:3306"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:3306"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table users created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table \nCREATE TABLE IF NOT EXISTS users (\n    id INT PRIMARY KEY AUTO_INCREMENT,\n    firstname VARCHAR(50) NULL,\n    lastname VARCHAR(50) NULL,\n    email VARCHAR(255) NOT NULL UNIQUE,\n    password VARCHAR(255) NOT NULL,\n    created_on TIMESTAMP(6) NOT NULL DEFAULT CURRENT_TIMESTAMP(6),\n    token VARCHAR(255) NOT NULL UNIQUE\n) \n created!"}
+{"level":"error","message":"ER_TABLE_EXISTS_ERROR: Table 'survey' already exists"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table \nCREATE TABLE IF NOT EXISTS users (\n    id INT PRIMARY KEY AUTO_INCREMENT,\n    firstname VARCHAR(50) NULL,\n    lastname VARCHAR(50) NULL,\n    email VARCHAR(255) NOT NULL UNIQUE,\n    password VARCHAR(255) NOT NULL,\n    created_on TIMESTAMP(6) NOT NULL DEFAULT CURRENT_TIMESTAMP(6),\n    token VARCHAR(255) NOT NULL UNIQUE\n) \n created!"}
+{"level":"error","message":"ER_TABLE_EXISTS_ERROR: Table 'survey' already exists"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"error","message":"ER_TABLE_EXISTS_ERROR: Table 'survey' already exists"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"error","message":"ER_TABLE_EXISTS_ERROR: Table 'survey' already exists"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"error","message":"ER_TABLE_EXISTS_ERROR: Table 'survey' already exists"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"DB Dropped!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"error","message":"ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1"}
+{"level":"error","message":"ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1"}
+{"level":"error","message":"ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1"}
+{"level":"error","message":"ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'token' cannot be null"}
+{"level":"info","message":"DB Dropped!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'surveyId' cannot be null"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'surveyId' cannot be null"}
+{"level":"info","message":"DB Dropped!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"error","message":"ER_TABLE_EXISTS_ERROR: Table 'survey' already exists"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'id' cannot be null"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_NULL_ERROR: Column 'id' cannot be null"}
+{"level":"info","message":"DB Dropped!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"DB Dropped!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'markprintdbv1.question' doesn't exist"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BEGIN\n                    SELECT * FROM question WHERE surveyId = '1';\n      ...' at line 3"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'BEGIN\n                    SELECT * FROM question WHERE surveyId = '1'\n       ...' at line 3"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'markprintdbv1.question' doesn't exist"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(6) NOT NULL DEFAULT CURRENT_TIMESTAMP(6),\n    token VARCHAR(255) NULL UNIQUE\n)' at line 7"}
+{"level":"info","message":"DB created!"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Table undefined created!"}
