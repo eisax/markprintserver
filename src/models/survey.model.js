@@ -62,22 +62,25 @@ class Survey {
             if (res.length) {
                 cb(null, res);
                 return;
+            } else {
+                cb(null, []);
+                return;
             }
-            cb({ kind: "not_found" }, null);
+            
         });
     }
 
     static findSurveyById(id, cb) {
-        
+
         db.query(`SELECT * FROM survey WHERE id = ?`, [id], (err, surveyRes) => {
-            
+
             if (err) {
                 console.log(err)
                 logger.error(err.message);
                 cb(err, null);
                 return;
             }
-            
+
             if (surveyRes.length) {
                 const survey = surveyRes[0];
                 db.query(`SELECT * FROM question WHERE surveyId = ?`, [id], (err, questionRes) => {
@@ -90,11 +93,13 @@ class Survey {
                     cb(null, survey);
                 });
                 return;
+            }else {
+                cb(null, []);
+                return;
             }
-            cb({ kind: "not_found" }, null);
         });
     }
-    
+
 
     static create(survey, cb) {
         db.query(`INSERT INTO survey VALUES(null,?,?,?,?,?,?,?,?,?)`,

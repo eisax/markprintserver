@@ -439,3 +439,7 @@
 {"level":"info","message":"Table undefined created!"}
 {"level":"info","message":"Table undefined created!"}
 {"level":"info","message":"Table undefined created!"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
