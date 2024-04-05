@@ -59,3 +59,25 @@ exports.fetchsurveybyId = (req, res) => {
         }
     });
 };
+
+exports.createquestion = (req, res) => {
+    const { id } = req.user;
+    const { title, welcomeMessage, welcomeDescription, buttonText, summaryMessage, summaryDescription, isWelcome, isSummary } = req.body;
+
+
+    const survey = new Survey(id, title, welcomeMessage, welcomeDescription, buttonText, summaryMessage, summaryDescription, isWelcome, isSummary)
+
+    Question.create(survey, (err, data) => {
+        if (err) {
+            res.status(500).send({
+                status: "error",
+                message: err.message
+            });
+        } else {
+            res.status(201).send({
+                status: "success",
+                message: "Survey Created Successfuly"
+            });
+        }
+    });
+};

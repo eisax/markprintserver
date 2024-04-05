@@ -23,7 +23,7 @@ const authenticateToken = (req, res, next) => {
     User.findByToken(token, (err, user) => {
         if (err) {
             logger.error(err.message);
-            return res.status(500).send({
+            return res.status(401).send({
                 status: 'error',
                 message: "Session Expired, log in again"
             });

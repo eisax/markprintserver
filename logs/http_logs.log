@@ -1,1 +1,0 @@
-::ffff:127.0.0.1 - - [05/Mar/2024:11:52:26 +0000] "GET /api/survey/fetch-survey/5 HTTP/1.1" 201 30 "-" "PostmanRuntime/7.36.3"
